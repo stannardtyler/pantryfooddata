@@ -14,7 +14,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(50);
 
   if (data) {
     let numRows = data.getRowCount();
